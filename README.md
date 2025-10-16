@@ -1,4 +1,4 @@
-# 🤖 Proyecto Testing Automatización: Pre-Entrega 1
+# 🤖 Proyecto Testing Automatización: Pre-Entrega 
 
 <br>
 
